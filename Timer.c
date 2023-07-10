@@ -1,4 +1,4 @@
-//Timer - Mashu
+//Timer - M
 
 #include <stdio.h>
 #include <stdlib.h>
